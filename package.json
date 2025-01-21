@@ -1,6 +1,6 @@
 {
-  "name": "shellies-ds9",
-  "version": "1.1.7",
+  "name": "node-shellies-gu5",
+  "version": "1.1.8",
   "description": "Handles communication with the next generation of Shelly devices",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -25,13 +25,9 @@
   "author": "Alexander Rydén/ David S.",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/cubi1337/node-shellies-ds9/issues"
+    "url": "https://github.com/Blackout1024/node-shellies-gu5/issues"
   },
-  "homepage": "https://github.com/cubi1337/node-shellies-ds9#readme",
-  "funding": {
-    "type": "kofi",
-    "url": "https://ko-fi.com/cubi1337"
-  },
+  "homepage": "https://github.com/Blackout1024/node-shellies-gu5#readme",
   "devDependencies": {
     "@types/jest": "^29.5.11",
     "@typescript-eslint/eslint-plugin": "^6.13.2",
